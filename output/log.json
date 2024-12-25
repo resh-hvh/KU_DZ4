@@ -1,1 +1,212 @@
-
+[
+    {
+        "mnemonic": "LOAD_CONST",
+        "operand": 7,
+        "binary": [
+            181,
+            7,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "mnemonic": "WRITE_MEM",
+        "operand": 100,
+        "binary": [
+            92,
+            100,
+            0
+        ]
+    },
+    {
+        "mnemonic": "LOAD_CONST",
+        "operand": -3,
+        "binary": [
+            181,
+            253,
+            255,
+            255,
+            31,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "mnemonic": "WRITE_MEM",
+        "operand": 101,
+        "binary": [
+            92,
+            101,
+            0
+        ]
+    },
+    {
+        "mnemonic": "LOAD_CONST",
+        "operand": 5,
+        "binary": [
+            181,
+            5,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "mnemonic": "WRITE_MEM",
+        "operand": 102,
+        "binary": [
+            92,
+            102,
+            0
+        ]
+    },
+    {
+        "mnemonic": "LOAD_CONST",
+        "operand": 0,
+        "binary": [
+            181,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "mnemonic": "WRITE_MEM",
+        "operand": 103,
+        "binary": [
+            92,
+            103,
+            0
+        ]
+    },
+    {
+        "mnemonic": "LOAD_CONST",
+        "operand": -1,
+        "binary": [
+            181,
+            255,
+            255,
+            255,
+            31,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "mnemonic": "WRITE_MEM",
+        "operand": 104,
+        "binary": [
+            92,
+            104,
+            0
+        ]
+    },
+    {
+        "mnemonic": "LOAD_CONST",
+        "operand": 2,
+        "binary": [
+            181,
+            2,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "mnemonic": "WRITE_MEM",
+        "operand": 105,
+        "binary": [
+            92,
+            105,
+            0
+        ]
+    },
+    {
+        "mnemonic": "LOAD_CONST",
+        "operand": 4,
+        "binary": [
+            181,
+            4,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "mnemonic": "WRITE_MEM",
+        "operand": 106,
+        "binary": [
+            92,
+            106,
+            0
+        ]
+    },
+    {
+        "mnemonic": "LOAD_CONST",
+        "operand": -6,
+        "binary": [
+            181,
+            250,
+            255,
+            255,
+            31,
+            0,
+            0,
+            0,
+            0
+        ]
+    },
+    {
+        "mnemonic": "WRITE_MEM",
+        "operand": 107,
+        "binary": [
+            92,
+            107,
+            0
+        ]
+    },
+    {
+        "mnemonic": "READ_MEM",
+        "operand": 100,
+        "binary": [
+            120,
+            100,
+            0
+        ]
+    },
+    {
+        "mnemonic": "UNARY_SGN",
+        "operand": 200,
+        "binary": [
+            119,
+            200,
+            0
+        ]
+    }
+]
